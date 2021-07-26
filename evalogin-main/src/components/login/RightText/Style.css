@@ -1,0 +1,35 @@
+.Login{
+    flex: 3;
+    color: white;
+  }
+  .loginWrapper{
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      background-color: transparent;
+      height: 100vh;
+      width: 100%; 
+      justify-content: center;
+     
+  }
+  input{
+      padding: 10px;
+      margin: 20px;
+      border-radius: 5px;
+      border: none; 
+      text-align: center;
+      font-size: 16px;
+      font-weight: 400;
+  }
+  .btn{
+      background-color: rgb(55, 53, 126);
+      color: white;
+      font-size: 16px;
+     
+  }
+  .btn:hover{
+    background-color: rgb(145, 143, 221);
+    transition: .9s;
+    color: black;
+    font-weight: bold;
+}

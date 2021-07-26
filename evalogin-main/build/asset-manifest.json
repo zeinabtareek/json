@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MohamedHamdy556/evalogin.git/static/css/main.db46ff04.chunk.css",
+    "main.js": "/MohamedHamdy556/evalogin.git/static/js/main.0d99705a.chunk.js",
+    "main.js.map": "/MohamedHamdy556/evalogin.git/static/js/main.0d99705a.chunk.js.map",
+    "runtime-main.js": "/MohamedHamdy556/evalogin.git/static/js/runtime-main.0272b72f.js",
+    "runtime-main.js.map": "/MohamedHamdy556/evalogin.git/static/js/runtime-main.0272b72f.js.map",
+    "static/js/2.d8a28d6b.chunk.js": "/MohamedHamdy556/evalogin.git/static/js/2.d8a28d6b.chunk.js",
+    "static/js/2.d8a28d6b.chunk.js.map": "/MohamedHamdy556/evalogin.git/static/js/2.d8a28d6b.chunk.js.map",
+    "index.html": "/MohamedHamdy556/evalogin.git/index.html",
+    "static/css/main.db46ff04.chunk.css.map": "/MohamedHamdy556/evalogin.git/static/css/main.db46ff04.chunk.css.map",
+    "static/js/2.d8a28d6b.chunk.js.LICENSE.txt": "/MohamedHamdy556/evalogin.git/static/js/2.d8a28d6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0272b72f.js",
+    "static/js/2.d8a28d6b.chunk.js",
+    "static/css/main.db46ff04.chunk.css",
+    "static/js/main.0d99705a.chunk.js"
+  ]
+}

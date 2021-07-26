@@ -1,0 +1,17 @@
+.app{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  background-image: url("https://wallpaperchat.com/walls/full/b/a/e/438517.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media screen and (max-width: 992px) {
+  .app{
+    flex-direction: column;
+   background-size: cover;
+    
+    
+  }
+}
